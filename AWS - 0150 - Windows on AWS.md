@@ -1,0 +1,9 @@
+- EC2 - Windows Servers
+- RDS - SQL Server on 
+- AWS Directory Service - Microsoft Active Directory as managed service
+- AWS license Manager. To buy Microsoft licenses
+- AMmazon Fsx (Windows File Server)
+- AWS SDK. Supports .NET
+- Amazon Workspace (You can have windows 10 or 11 Virtual Desktop)
+- AWS Lambdas support PowerShell
+- AWS Migration Acceleration Program (there is also focused on Windows)

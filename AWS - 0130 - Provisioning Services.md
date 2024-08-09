@@ -1,0 +1,8 @@
+- **Elastic Beanstalk (EB)**: PaaS its more configurable than App Runners
+- **AWS OpsWorks**: configuration management service. Add a network interface or so. Chef / puppet / ansible
+- **CloudFormation:** IaC (Terraform)
+- **AWS Amplify**: (Serverless) ~ Firebase
+- **AWS App Runners:** PaaS for containers ~ Heroku
+- AWS Copilot CI. CLI for ECS for provisioning apps based in containers
+- *AWS CodeStar* (deprecated)
+- AWS Cloud Development kit (CDK): layer on top Cloud Formation 
